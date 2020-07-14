@@ -16,3 +16,15 @@ Convert paper scheduling over to online
 ```
 
 ![Screen shot of Pegasus Home Page](https://github.com/AlmanzaNation/Pegasus/blob/master/Screen%20Shot%202020-07-14%20at%203.25.34%20PM.png)
+
+
+![Screen shot of Pegasus Calendar](https://github.com/AlmanzaNation/Pegasus/blob/master/Screen%20Shot%202020-07-14%20at%203.25.45%20PM.png)
+
+
+![Screen shot of Pegasus Manager Login](https://github.com/AlmanzaNation/Pegasus/blob/master/Screen%20Shot%202020-07-14%20at%203.25.55%20PM.png)
+
+
+
+![Screen shot of Pegasus registration](https://github.com/AlmanzaNation/Pegasus/blob/master/Screen%20Shot%202020-07-14%20at%203.26.02%20PM.png)
+
+
