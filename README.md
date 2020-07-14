@@ -15,4 +15,4 @@ Convert paper scheduling over to online
 
 ```
 
-![Screen shot of Pegasus Home Page](https://github.com/AlmanzaNation/techdegree-project-1/blob/master/images/image1.png)
+![Screen shot of Pegasus Home Page](https://github.com/AlmanzaNation/Pegasus/blob/master/Screen%20Shot%202020-07-14%20at%203.25.34%20PM.png)
